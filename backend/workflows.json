@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ninja",
+    "trigger": "open chrome",
+    "actions": [
+      "open vscode",
+      "open youtube"
+    ]
+  },
+  {
+    "name": "aftercode",
+    "trigger": "finactive",
+    "actions": [
+      "open chrome",
+      "open youtube",
+      "search dsa in java"
+    ]
+  },
+  {
+    "name": "production",
+    "trigger": "pn",
+    "actions": [
+      "open youtube",
+      "play dsa in java on youtube"
+    ]
+  }
+]

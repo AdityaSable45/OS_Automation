@@ -1,0 +1,10 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+pydantic==2.10.4
+requests==2.31.0
+pygetwindow==0.0.9
+groq
+python-dotenv
+python-docx
+PyMuPDF
+openpyxl
